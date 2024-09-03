@@ -13,6 +13,8 @@ This project is part of the FreeCodeCamp Relational Database certification. The 
 - `salon.sh`: A Bash script to manage and schedule appointments by interacting with the database based on user input.
 
 ## Database Schema
+![diagram-export-03-09-2024-18_29_49](https://github.com/user-attachments/assets/1e163831-ec31-4cfe-b8fd-7fa87a72328b)
+
 
 The database consists of the following tables:
 
